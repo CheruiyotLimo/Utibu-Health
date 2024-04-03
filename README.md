@@ -1,6 +1,8 @@
 # Utibu Health
 This is an inventory tracking application designed to handle orders for medications and allowing administrators to effectively monitor and update their stock as well as track incoming medication orders from users.
 
+For a short live demo of this application, watch the [YouTube video here](https://youtu.be/pAs7Azq8eLs)
+
 ## Introduction
 This is a backend API application built with Python using the FastAPI web framework and PostgresQL database that handles server-side logic including database CRUD operations through well-defined API endpoints
 and client-side calls simulated by Postman. Check the link below for my Postman collection of all the endpoints.
